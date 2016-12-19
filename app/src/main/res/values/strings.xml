@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Examen2Eva</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtAddDireccion">Direccion:</string>
+    <string name="txtAddIdentificator">Identificador:</string>
+    <string name="txtAddLatitude">Altitud:</string>
+    <string name="txtAddLongitude">Longitud:</string>
+    <string name="txtAddComentario">Comentario:</string>
+    <string name="txtAddTipo">Tipo:</string>
+    <string name="btnAddOk">Insertar</string>
+    <string name="btnAddCancel">Cancelar</string>
+    <string name="tipoCalle">Calle</string>
+    <string name="tipoParque">Parque</string>
+    <string name="tipoRestaurante">Restaurante</string>
+    <string name="tipoMuseo">Museo</string>
+    <string name="alertAddCampos">Rellena todos los campos</string>
+    <string name="alertAddCanceled">Insertar cancelado</string>
+    <string name="alertAddOk">Insertar terminado</string>
+    <string name="opBorrar">Eliminar localización</string>
+    <string name="alertBorrar">¿Seguro que quieres eliminar esta localización?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="btnAutoRellenar">Rellenar automáticamente con el GPS</string>
+    <string name="gpsError">No se ha encontrado internet o GPS</string>
+</resources>
